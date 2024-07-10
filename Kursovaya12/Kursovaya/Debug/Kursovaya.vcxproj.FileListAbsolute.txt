@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kursovaya1\Kursovaya\Debug\Kursovaya.Form1.resources
+C:\Users\user\Desktop\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+D:\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+D:\Kursovaya1\Kursovaya\Debug\Kursovaya.Form1.resources
+D:\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+E:\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+E:\Kursovaya1\Kursovaya\Debug\Kursovaya.Form1.resources
+E:\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\HP Omen 15\Desktop\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\HP Omen 15\Desktop\Kursovaya1\Kursovaya\Debug\Kursovaya.Form1.resources
+C:\Users\HP Omen 15\Desktop\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+P:\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+P:\Kursovaya1\Kursovaya\Debug\Kursovaya.Form1.resources
+P:\Kursovaya1\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Kursovaya11\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kursovaya11\Kursovaya\Debug\Kursovaya.Form1.resources
+C:\Users\user\Desktop\Kursovaya11\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Kursovaya12\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kursovaya12\Kursovaya\Debug\Kursovaya.Form1.resources
+C:\Users\user\Desktop\Kursovaya12\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+M:\уник\Kursovaya12\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+M:\уник\Kursovaya12\Kursovaya\Debug\Kursovaya.Form1.resources
+M:\уник\Kursovaya12\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache

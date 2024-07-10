@@ -1,0 +1,30 @@
+﻿Построение начато 28.03.2022 22:34:46.
+     1>Проект "C:\Users\User\Desktop\Универ\2 семестр\Курсовая\Kursovaya\Kursovaya\Kursovaya.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Release\Kursovaya.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Kursovaya.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Kursovaya.cpp plus_s.cpp /clr:nostdlib 
+         Kursovaya.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(21): error C2059: синтаксическая ошибка: строка
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(21): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+     1>c:\users\user\desktop\универ\2 семестр\курсовая\kursovaya\kursovaya\Form1.h(443): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+     1>c:\users\user\desktop\универ\2 семестр\курсовая\kursovaya\kursovaya\Form1.h(558): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         plus_s.cpp
+     1>plus_s.cpp(1): warning C4627: #include <stdio.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>plus_s.cpp(2): warning C4627: #include <stdlib.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>plus_s.cpp(3): warning C4627: #include <conio.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>plus_s.cpp(5): error C3862: plus_s: неуправляемую функцию невозможно компилировать с параметрами /clr:pure или /clr:safe
+                 Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+     1>plus_s.cpp(5): error C3645: plus_s: __clrcall невозможно использовать с функциями, скомпилированными в машинный код
+         Создание кода...
+     1>Построение проекта "C:\Users\User\Desktop\Универ\2 семестр\Курсовая\Kursovaya\Kursovaya\Kursovaya.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.31

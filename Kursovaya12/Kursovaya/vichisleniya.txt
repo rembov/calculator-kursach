@@ -1,0 +1,12 @@
+11*5=55
+Sqrt(55555)=235.701
+66666^6=8.77862e+28
+Sin(90)=0.893
+dopolnitelni kod:5=5
+0-5=-5
+dopolnitelni kod:-5=-5
+50-5=45
+dopolnitelni kod:45=45
+dopolnitelni kod:64=64
+0-64=-64
+dopolnitelni kod:-64=-64

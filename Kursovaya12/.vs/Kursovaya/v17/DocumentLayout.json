@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\twocomplement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\twocomplement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\plus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\multiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\multiplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\FileAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\FileAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\minus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\minus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\twocomplement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\twocomplement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Kursovaya.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\Kursovaya.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\plus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\plus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\multiplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\multiplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\AssemblyInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\AssemblyInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\FileAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\FileAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\minus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\minus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40C961C6-6040-4814-B8AC-92004924420C}|Kursovaya\\Kursovaya.vcxproj|solutionrelative:Kursovaya\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\vs\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "minus.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\minus.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\minus.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\minus.cpp",
+              "RelativeToolTip": "Kursovaya\\minus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T06:30:35.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plus.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\plus.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\plus.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\plus.cpp",
+              "RelativeToolTip": "Kursovaya\\plus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T06:29:56.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "division.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\division.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\division.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\division.cpp",
+              "RelativeToolTip": "Kursovaya\\division.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T06:28:52.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "multiplication.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\multiplication.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\multiplication.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\multiplication.cpp",
+              "RelativeToolTip": "Kursovaya\\multiplication.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T18:04:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "twocomplement.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\twocomplement.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\twocomplement.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\twocomplement.cpp",
+              "RelativeToolTip": "Kursovaya\\twocomplement.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T14:25:12.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "twocomplement.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\twocomplement.h",
+              "RelativeDocumentMoniker": "Kursovaya\\twocomplement.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\twocomplement.h",
+              "RelativeToolTip": "Kursovaya\\twocomplement.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T14:23:18.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileAdd.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\FileAdd.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\FileAdd.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\FileAdd.cpp",
+              "RelativeToolTip": "Kursovaya\\FileAdd.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T22:10:02.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Form1.h",
+              "RelativeDocumentMoniker": "Kursovaya\\Form1.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Form1.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Kursovaya\\Form1.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T06:28:03.642Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Form1.h",
+              "RelativeDocumentMoniker": "Kursovaya\\Form1.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Form1.h",
+              "RelativeToolTip": "Kursovaya\\Form1.h",
+              "ViewState": "AQIAAHIDAAAAAAAAAAAAAH8DAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T06:29:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kursovaya.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Kursovaya.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\Kursovaya.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\Kursovaya.cpp",
+              "RelativeToolTip": "Kursovaya\\Kursovaya.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-30T06:31:30.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "plus.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\plus.h",
+              "RelativeDocumentMoniker": "Kursovaya\\plus.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\plus.h",
+              "RelativeToolTip": "Kursovaya\\plus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T06:29:36.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "multiplication.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\multiplication.h",
+              "RelativeDocumentMoniker": "Kursovaya\\multiplication.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\multiplication.h",
+              "RelativeToolTip": "Kursovaya\\multiplication.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-30T09:02:35.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\ReadMe.txt",
+              "RelativeDocumentMoniker": "Kursovaya\\ReadMe.txt",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\ReadMe.txt",
+              "RelativeToolTip": "Kursovaya\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-07T17:50:08.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cpp",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\AssemblyInfo.cpp",
+              "RelativeDocumentMoniker": "Kursovaya\\AssemblyInfo.cpp",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\AssemblyInfo.cpp",
+              "RelativeToolTip": "Kursovaya\\AssemblyInfo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T17:50:23.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "minus.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\minus.h",
+              "RelativeDocumentMoniker": "Kursovaya\\minus.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\minus.h",
+              "RelativeToolTip": "Kursovaya\\minus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T06:30:58.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "exception",
+              "DocumentMoniker": "G:\\vs\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception",
+              "ToolTip": "G:\\vs\\VC\\Tools\\MSVC\\14.39.33519\\include\\exception",
+              "ViewState": "AQIAAAgBAAAAAAAAAIAwwBEBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-02T15:05:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileAdd.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\FileAdd.h",
+              "RelativeDocumentMoniker": "Kursovaya\\FileAdd.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\FileAdd.h",
+              "RelativeToolTip": "Kursovaya\\FileAdd.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-30T22:00:57.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "resource.h",
+              "DocumentMoniker": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\resource.h",
+              "RelativeDocumentMoniker": "Kursovaya\\resource.h",
+              "ToolTip": "M:\\\u0443\u043D\u0438\u043A\\Kursovaya12\\Kursovaya\\resource.h",
+              "RelativeToolTip": "Kursovaya\\resource.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-31T18:04:31.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
