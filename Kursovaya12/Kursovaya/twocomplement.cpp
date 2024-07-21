@@ -9,10 +9,7 @@ double twocomplement(double a) {
     __asm {
         fld a
         fistp res
-        //mov eax, 0xFFFFFFFF
         mov ebx, res
-       // xor ebx, eax
-       // inc ebx
         mov res, ebx
         fild res
         fst converted
